@@ -1,0 +1,15 @@
+{
+  "name": "gdid",
+  "version": "2.0.0",
+  "description": "Un bot discord qui permet a avoir des id de niveux",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aekl, LeLetangu",
+  "license": "ISC"
+}
